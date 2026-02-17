@@ -31,5 +31,5 @@ When I'm not working with data, I enjoy reading, singing and listening to music.
 ## 🌱 Currently Learning 
 
 - [Enterprise Terraform patterns (modules, remote state, least-privilege service principals.]
-- [Tracing cloud breaches through Azure Activity Logs]
+- [Tracing cloud breaches through Azure Activity Logs.]
 
