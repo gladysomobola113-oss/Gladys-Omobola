@@ -21,7 +21,7 @@ I am currently building hands-on experience in identity and access management (E
 When I'm not working with data, I enjoy reading, singing and listening to music. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://https://www.canva.com/design/DAHBd4XBXxQ/3PcEV-139pPm_NIf-As8kA/view?utm_content=DAHBd4XBXxQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h74e2768a86)
+### [🏆 Check Out My Full Portfolio Website](https://www.canva.com/design/DAHBd4XBXxQ/3PcEV-139pPm_NIf-As8kA/view?utm_content=DAHBd4XBXxQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h74e2768a86)
       
 ## 🔭 What I'm Currently Working On 
 
