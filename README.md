@@ -9,7 +9,6 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="http://linkedin.com/in/gladys-adegboyega"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.canva.com/design/DAHBd4XBXxQ/3PcEV-139pPm_NIf-As8kA/view?utm_content=DAHBd4XBXxQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h74e2768a86"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:gladysomobola113@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
