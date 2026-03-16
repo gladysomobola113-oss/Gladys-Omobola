@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I am a Junior Cloud Security Engineer focused on securing Azure environments. I am focused on cloud security specifically making sure the right people have the right access and nothing slips through the cracks. I spend most of my time in Terraform and Azure figuring out why pipelines fail, how to tighten RBAC and making sure secrets don't accidentally end up in logs.
+I am a Cloud Security Engineer focused on securing Azure environments. I am focused on cloud security specifically making sure the right people have the right access and nothing slips through the cracks. I spend most of my time in Terraform and Azure figuring out why pipelines fail, how to tighten RBAC and making sure secrets don't accidentally end up in logs.
 
 I am currently building hands-on experience in identity and access management (Entra ID), network security (NSGs, private endpoints), cloud governance (Azure Policy) and security posture management (Defender for Cloud).
 
